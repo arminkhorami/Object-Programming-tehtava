@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Task1_1_Hello/Task1_1_Hello.iml" filepath="$PROJECT_DIR$/Task1_1_Hello/Task1_1_Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task1_2_Converter/Task1_2_1Converter.iml" filepath="$PROJECT_DIR$/Task1_2_Converter/Task1_2_1Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task1_2_2Triangles/Task1_2_2Triangles.iml" filepath="$PROJECT_DIR$/Task1_2_2Triangles/Task1_2_2Triangles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task1_2_3Obsolete_measures/Task1_2_3Obsolete_measures.iml" filepath="$PROJECT_DIR$/Task1_2_3Obsolete_measures/Task1_2_3Obsolete_measures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1_2_Stars/Task1_2_Stars.iml" filepath="$PROJECT_DIR$/Task1_2_Stars/Task1_2_Stars.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1_3_Calculator/Task1_3_Calculator.iml" filepath="$PROJECT_DIR$/Task1_3_Calculator/Task1_3_Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1_4_Cat/Task1_4_Cat.iml" filepath="$PROJECT_DIR$/Task1_4_Cat/Task1_4_Cat.iml" />
