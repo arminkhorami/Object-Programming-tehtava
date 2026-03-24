@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Task1_3_Calculator/Task1_3_Calculator.iml" filepath="$PROJECT_DIR$/Task1_3_Calculator/Task1_3_Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1_4_1name_generator/Task1_4_1name_generator.iml" filepath="$PROJECT_DIR$/Task1_4_1name_generator/Task1_4_1name_generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1_4_2Finding/Task1_4_2Finding.iml" filepath="$PROJECT_DIR$/Task1_4_2Finding/Task1_4_2Finding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task1_4_3Removing_duplicates/Task1_4_3Removing_duplicates.iml" filepath="$PROJECT_DIR$/Task1_4_3Removing_duplicates/Task1_4_3Removing_duplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1_4_Cat/Task1_4_Cat.iml" filepath="$PROJECT_DIR$/Task1_4_Cat/Task1_4_Cat.iml" />
       <module fileurl="file://$PROJECT_DIR$/opp_tehtava.iml" filepath="$PROJECT_DIR$/opp_tehtava.iml" />
     </modules>
