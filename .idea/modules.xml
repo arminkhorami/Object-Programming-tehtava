@@ -25,6 +25,16 @@
       <module fileurl="file://$PROJECT_DIR$/Task2_2_3GroceryListManager/Task2_2_3GroceryListManager.iml" filepath="$PROJECT_DIR$/Task2_2_3GroceryListManager/Task2_2_3GroceryListManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task2_2_4GroceryListManager/Task2_2_4GroceryListManager.iml" filepath="$PROJECT_DIR$/Task2_2_4GroceryListManager/Task2_2_4GroceryListManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task2_2_5GroceryListManager/Task2_2_5GroceryListManager.iml" filepath="$PROJECT_DIR$/Task2_2_5GroceryListManager/Task2_2_5GroceryListManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2_3_1LibraryBooks-Association/Task2_3_1LibraryBooks-Association.iml" filepath="$PROJECT_DIR$/Task2_3_1LibraryBooks-Association/Task2_3_1LibraryBooks-Association.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2_3_2Book-Borrowing-System/Task2_3_2Book-Borrowing-System.iml" filepath="$PROJECT_DIR$/Task2_3_2Book-Borrowing-System/Task2_3_2Book-Borrowing-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2_3_3Book-Availability-Check/Task2_3_3Book-Availability-Check.iml" filepath="$PROJECT_DIR$/Task2_3_3Book-Availability-Check/Task2_3_3Book-Availability-Check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2_3_4Book-Ratings-Reviews/Task2_3_4Book-Ratings-Reviews.iml" filepath="$PROJECT_DIR$/Task2_3_4Book-Ratings-Reviews/Task2_3_4Book-Ratings-Reviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2_3_5Library-Statistics/Task2_3_5Library-Statistics.iml" filepath="$PROJECT_DIR$/Task2_3_5Library-Statistics/Task2_3_5Library-Statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2_3_6Library Users/Task2_3_6Library Users.iml" filepath="$PROJECT_DIR$/Task2_3_6Library Users/Task2_3_6Library Users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task3_1_1Sports-car/Task3_1_1Sports-car.iml" filepath="$PROJECT_DIR$/Task3_1_1Sports-car/Task3_1_1Sports-car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task3_1_2Bus/Task3_1_2Bus.iml" filepath="$PROJECT_DIR$/Task3_1_2Bus/Task3_1_2Bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task3_1_3Shape-Hierarchy/Task3_1_3Shape-Hierarchy.iml" filepath="$PROJECT_DIR$/Task3_1_3Shape-Hierarchy/Task3_1_3Shape-Hierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task3_1_4Shape-properties/Task3_1_4Shape-properties.iml" filepath="$PROJECT_DIR$/Task3_1_4Shape-properties/Task3_1_4Shape-properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/opp_tehtava.iml" filepath="$PROJECT_DIR$/opp_tehtava.iml" />
     </modules>
   </component>
