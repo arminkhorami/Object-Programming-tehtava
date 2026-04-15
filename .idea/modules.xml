@@ -45,6 +45,8 @@
       <module fileurl="file://$PROJECT_DIR$/Task3_1_4Shape-properties/Task3_1_4Shape-properties.iml" filepath="$PROJECT_DIR$/Task3_1_4Shape-properties/Task3_1_4Shape-properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task3_2_1Vehicle-Interfaces/Task3_2_1Vehicle-Interfaces.iml" filepath="$PROJECT_DIR$/Task3_2_1Vehicle-Interfaces/Task3_2_1Vehicle-Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task3_2_2Vehicle-Inheritance-Hierarchy/Task3_2_2Vehicle-Inheritance-Hierarchy.iml" filepath="$PROJECT_DIR$/Task3_2_2Vehicle-Inheritance-Hierarchy/Task3_2_2Vehicle-Inheritance-Hierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task5-1-1Ticket-Reservation/Task5-1-1Ticket-Reservation.iml" filepath="$PROJECT_DIR$/Task5-1-1Ticket-Reservation/Task5-1-1Ticket-Reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task5-1-2Thread-safe/Task5-1-2Thread-safe.iml" filepath="$PROJECT_DIR$/Task5-1-2Thread-safe/Task5-1-2Thread-safe.iml" />
       <module fileurl="file://$PROJECT_DIR$/opp_tehtava.iml" filepath="$PROJECT_DIR$/opp_tehtava.iml" />
     </modules>
   </component>
