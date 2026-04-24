@@ -1,8 +1,8 @@
 import javafx.application.Application;
-import view.PetView;
+import view.NoteApp;
 
 public class Main {
     public static void main(String[] args) {
-        Application.launch(PetView.class);
+        Application.launch(NoteApp.class);
     }
 }
