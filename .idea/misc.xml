@@ -10,7 +10,18 @@
         <option value="$PROJECT_DIR$/Task7-4/pom.xml" />
         <option value="$PROJECT_DIR$/Task8-1.1test/pom.xml" />
         <option value="$PROJECT_DIR$/Task8-1-2JUnittests/pom.xml" />
+        <option value="$PROJECT_DIR$/Task8-2-1/pom.xml" />
+        <option value="$PROJECT_DIR$/Taks8-2-2/pom.xml" />
+        <option value="$PROJECT_DIR$/Task8-3-1/pom.xml" />
+        <option value="$PROJECT_DIR$/Task8-3-2/pom.xml" />
+        <option value="$PROJECT_DIR$/Task8-4-1/pom.xml" />
+        <option value="$PROJECT_DIR$/Task8-4-2/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Task8-3-2/Task8-4-1/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="homebrew-17" project-jdk-type="JavaSDK">
